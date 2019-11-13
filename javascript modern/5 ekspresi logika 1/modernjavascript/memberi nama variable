@@ -1,0 +1,11 @@
+memberi nama variable
+
+tidak diperbolehkan menggunakan keyword javascript
+tidak diperbolehkan menggunakan angka di awal
+1 menggunakan angka
+2 tanda dolar
+3 underscore
+4 dan angka yang bukan diawal
+
+let homeAlone = true;
+let price_per_quantity = 500;
